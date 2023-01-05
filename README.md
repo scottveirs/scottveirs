@@ -10,6 +10,16 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Underwater baby shower? Listen to J pod with new calf J59](https://www.orcasound.net/2022/03/03/underwater-baby-shower-listen-to-j-pod-with-new-calf-j59/)
+- [Orcasound’s Greatest Hits of 2021](https://www.orcasound.net/2022/02/15/orcasounds-greatest-hits-of-2021/)
+- [Bankruptcy of purse or life?](https://econscience.org/blog/2022/02/01/bankruptcy-of-purse-or-life/)
+- [Attenborough’s call for “a million sustainable innovations” to solve climate change](https://econscience.org/blog/2021/11/02/attenboroughs-call-for-a-million-sustainable-innovations-to-solve-climate-change/)
+- [Billy Frank on leadership](https://econscience.org/blog/2021/10/27/billy-frank-on-leadership/)
+- [A Haro humpback howls as Halloween harkens](https://www.orcasound.net/2021/10/26/haro-humpback-howls-as-halloween-harkens/)
+- [Exciting &lpar;S10&rpar; L pod calls as the sun sets over Orcasound Lab](https://www.orcasound.net/2021/08/25/exciting-s10-l-pod-calls-as-the-sun-sets-over-orcasound-lab/)
+- [Orcasound’s 2nd year with Google Summer of Code](https://www.orcasound.net/2021/07/14/orcasounds-2nd-year-with-google-summer-of-code/)
+- [Lon first to hear J+K pods entering Puget Sound at Bush Point](https://www.orcasound.net/2020/11/11/lon-first-to-hear-jk-pods-entering-puget-sound-at-bush-point/)
+- [Election night humpback calls at Orcasound Lab](https://www.orcasound.net/2020/11/04/scottveirs/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
