@@ -18,3 +18,4 @@ jobs:
           comment_tag_name: "ECONSCIENCE"
           commit_message: "Updated readme with the latest Econscience data"
           feed_list: "https://econscience.org/blog/feed/"
+          template: $date: [$title]($url)
