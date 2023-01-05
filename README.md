@@ -4,7 +4,7 @@ This is where I open source stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on understanding open source software development, user-centered design, and the Salish Sea ecosystem.
 - 🌱 &nbsp;I’m currently learning about AWS, Azure, Python, and OrbitDB.
 - 💬 &nbsp;Ask me about anything related to oceanography or marine bioacoustics.
-- 📫 &nbsp;How to reach me: [sveirs@gmail.com](mailto://sveirs@gmail.com) or <a rel="me" href="https://hachyderm.io/@sveirs">achyderm.io/@sveirs</a>
+- 📫 &nbsp;How to reach me: via email, Github Discussions [here](https://github.com/scottveirs/scottveirs/discussions), or <a rel="me" href="https://hachyderm.io/@sveirs">achyderm.io/@sveirs</a>
 - 👨‍💻 &nbsp;Read more about my work projects at [beamreach.blue](https://beamreach.blue)
 - ⚡ &nbsp;Fun fact: I :heart: [mountaineering](https://www.summitpost.org/users/scottv/292) and [raiding](https://barefootraid.net)
 
