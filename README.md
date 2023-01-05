@@ -13,6 +13,11 @@ This is the place where I opensource stuff and break things :rofl:
 Orcasound activity
 
 <!-- ORCASOUND:START -->
+- [Underwater baby shower? Listen to J pod with new calf J59](https://www.orcasound.net/2022/03/03/underwater-baby-shower-listen-to-j-pod-with-new-calf-j59/)
+- [Orcasound’s Greatest Hits of 2021](https://www.orcasound.net/2022/02/15/orcasounds-greatest-hits-of-2021/)
+- [A Haro humpback howls as Halloween harkens](https://www.orcasound.net/2021/10/26/haro-humpback-howls-as-halloween-harkens/)
+- [Exciting &lpar;S10&rpar; L pod calls as the sun sets over Orcasound Lab](https://www.orcasound.net/2021/08/25/exciting-s10-l-pod-calls-as-the-sun-sets-over-orcasound-lab/)
+- [Orcasound’s 2nd year with Google Summer of Code](https://www.orcasound.net/2021/07/14/orcasounds-2nd-year-with-google-summer-of-code/)
 <!-- ORCASOUND:END -->
 
 Econscience activity
