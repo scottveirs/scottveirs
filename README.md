@@ -10,7 +10,7 @@ This is where I open source stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 
-Orcasound activity
+**Orcasound activity**
 
 <!-- ORCASOUND:START -->
 - [Underwater baby shower? Listen to J pod with new calf J59](https://www.orcasound.net/2022/03/03/underwater-baby-shower-listen-to-j-pod-with-new-calf-j59/)
@@ -19,11 +19,13 @@ Orcasound activity
 - [Exciting &lpar;S10&rpar; L pod calls as the sun sets over Orcasound Lab](https://www.orcasound.net/2021/08/25/exciting-s10-l-pod-calls-as-the-sun-sets-over-orcasound-lab/)
 - [Orcasound’s 2nd year with Google Summer of Code](https://www.orcasound.net/2021/07/14/orcasounds-2nd-year-with-google-summer-of-code/)
 <!-- ORCASOUND:END -->
+<p>&nbsp</p>
 
-Econscience activity
+**Econscience activity**
 
 <!-- ECONSCIENCE:START -->Feb 02 2022 | <a href="https://econscience.org/blog/2022/02/01/bankruptcy-of-purse-or-life/">Bankruptcy of purse or life?</a><br>Nov 02 2021 | <a href="https://econscience.org/blog/2021/11/02/attenboroughs-call-for-a-million-sustainable-innovations-to-solve-climate-change/">Attenborough’s call for “a million sustainable innovations” to solve climate change</a><br>Oct 28 2021 | <a href="https://econscience.org/blog/2021/10/27/billy-frank-on-leadership/">Billy Frank on leadership</a><br>May 14 2019 | <a href="https://econscience.org/blog/2019/05/14/nootka-rose-blooms/">Nootka rose blooms</a><br>Mar 06 2019 | <a href="https://econscience.org/blog/2019/03/06/biodiesel-is-way-better-than-fossil-diesel-a-1998-life-cycle-analysis/">Biodiesel is way better than fossil diesel: a 1998 life-cycle analysis</a><br><!-- ECONSCIENCE:END -->
 
+<p>&nbsp</p>
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://linkedin.com/in/scottveirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
