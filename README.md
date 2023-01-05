@@ -23,6 +23,11 @@ Orcasound activity
 Econscience activity
 
 <!-- ECONSCIENCE:START -->
+- [Bankruptcy of purse or life?](https://econscience.org/blog/2022/02/01/bankruptcy-of-purse-or-life/)
+- [Attenborough’s call for “a million sustainable innovations” to solve climate change](https://econscience.org/blog/2021/11/02/attenboroughs-call-for-a-million-sustainable-innovations-to-solve-climate-change/)
+- [Billy Frank on leadership](https://econscience.org/blog/2021/10/27/billy-frank-on-leadership/)
+- [Nootka rose blooms](https://econscience.org/blog/2019/05/14/nootka-rose-blooms/)
+- [Biodiesel is way better than fossil diesel: a 1998 life-cycle analysis](https://econscience.org/blog/2019/03/06/biodiesel-is-way-better-than-fossil-diesel-a-1998-life-cycle-analysis/)
 <!-- ECONSCIENCE:END -->
 
 🔗 &nbsp;**Connect with me**
