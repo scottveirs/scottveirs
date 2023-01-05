@@ -10,11 +10,13 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 
-# Orcasound activity
+Orcasound activity
+
 <!-- ORCASOUND:START -->
 <!-- ORCASOUND:END -->
 
-# Econscience activity
+Econscience activity
+
 <!-- ECONSCIENCE:START -->
 <!-- ECONSCIENCE:END -->
 
