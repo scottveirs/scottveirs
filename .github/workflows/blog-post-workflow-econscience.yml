@@ -13,6 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "10"
+          max_post_count: ""
           remove_duplicates: true
-          feed_list: "https://econscience.org/blog/feed/,https://www.orcasound.net/author/scottveirs/feed/"
+          comment_tag_name: "ECONSCIENCE"
+          commit_message: "Updated readme with the latest Econscience data"
+          feed_list: "https://econscience.org/blog/feed/"
