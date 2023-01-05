@@ -17,3 +17,5 @@ jobs:
           comment_tag_name: "ORCASOUND"
           commit_message: "Updated readme with the latest Orcasound data"
           feed_list: "https://www.orcasound.net/author/scottveirs/feed/"
+          date_format: "mmm dd, yyyy"
+          template: '$date | <a href="$url">$title</a><br>'
