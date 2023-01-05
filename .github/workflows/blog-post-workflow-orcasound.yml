@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest post workflow - orcasound
 on:
   schedule:
     # Runs every hour
