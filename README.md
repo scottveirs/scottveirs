@@ -2,9 +2,9 @@
 This is where I open source stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on understanding open source software development, user-centered design, and the Salish Sea ecosystem.
-- 🌱 &nbsp;I’m currently learning about AWS, Azure, Python, and OrbitDB.
+- 🌱 &nbsp;Recently, I've been learning about: AWS, Azure, Python, and OrbitDB.
 - 💬 &nbsp;Ask me about anything related to oceanography or marine bioacoustics.
-- 📫 &nbsp;How to reach me: via email, Github Discussions [here](https://github.com/scottveirs/scottveirs/discussions), or <a rel="me" href="https://hachyderm.io/@sveirs">achyderm.io/@sveirs</a>
+- 📫 &nbsp;How to reach me: via Gmail (sveirs), in [Orcasound chats on Zulip](https://orcasound.zulipchat.com/), Github Discussions [here](https://github.com/scottveirs/scottveirs/discussions), or <a rel="me" href="https://hachyderm.io/@sveirs">achyderm.io/@sveirs</a>
 - 👨‍💻 &nbsp;Read more about my work projects at [beamreach.blue](https://beamreach.blue)
 - ⚡ &nbsp;Fun fact: I :heart: [mountaineering](https://www.summitpost.org/users/scottv/292) and [raiding](https://barefootraid.net)
 
@@ -22,9 +22,9 @@ This is where I open source stuff and break things :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/scottveirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://instagram.com/scottveirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-  <!-- <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/scottveirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottveirs on LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/scottveirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scotveirs on Instagram" height="30" width="40" /></a>
+<a href="[https://bsky.app/profile/sveirs.bsky.social)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/bluesky.svg" alt="scottveirs on BlueSky" height="30" width="40" /></a> -->
 
 ### My Opensource Story
 I am on a steep learning curve -- as a project manager, sometimes-creative, and wannabe-developer -- helping guide the amazing Orcasound open source design and development community towards successful conservation of soniferous marine life, starting with endangered orcas (aka Southern Resident killer whales).
