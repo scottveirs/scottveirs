@@ -24,7 +24,7 @@ This is where I open source stuff and break things :rofl:
 <p align="left">
 <a href="https://linkedin.com/in/scottveirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottveirs on LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/scottveirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scotveirs on Instagram" height="30" width="40" /></a>
-<a href="[https://bsky.app/profile/sveirs.bsky.social)" target="blank">BlueSky</a>
+<a href="https://bsky.app/profile/sveirs.bsky.social" target="blank">BlueSky</a>
 
 ### My Opensource Story
 I am on a steep learning curve -- as a project manager, sometimes-creative, and wannabe-developer -- helping guide the amazing Orcasound open source design and development community towards successful conservation of soniferous marine life, starting with endangered orcas (aka Southern Resident killer whales).
